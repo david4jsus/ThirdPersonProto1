@@ -1,2 +1,0 @@
-Content/** filter=lfs diff=lfs merge=lfs -text
-*-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
